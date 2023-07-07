@@ -26,10 +26,10 @@
   },
   "homepage": "https://github.com/learn-co-curriculum/js-basics-variables-lab#readme",
   "devDependencies": {
-    "babel-core": "^6.26.3",
-    "babel-preset-env": "1.7.0",
+    "@babel/core": "^7.22.8",
+    "@babel/preset-env": "^7.22.7",
     "chai": "^4.2.0",
-    "jsdom": "^9.2.1",
+    "jsdom": "^22.1.0",
     "mocha": "^5.2.0",
     "mocha-jsdom": "~1.1.0",
     "mocha-multi": "^1.0.1",
